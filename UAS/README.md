@@ -1,6 +1,12 @@
 # 📡 TCP Segment Analysis
 ## By: Maulana Bintang I. - 1224800005
 
+---
+
+**Video Presentasi:** [Link Google Drive](https://drive.google.com/file/d/1DBdNV-_zZfSAAc6KmVaa5IuWC9T6JnXI/view?usp=sharing)
+
+---
+
 ### 📋 Overview
 This document describes a TCP segment analysis based on a question related to a file transfer between a client and a server *gaia.cs.umass.edu*. The study uses Wireshark to observe TCP connection details, including **IP Address**, **port number**, **sequence number**, **round trip time (RTT)**, and **segment length**.
 
